@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Rana Sharif.
 #### I am a web Developer.
-![I am web Developer.](https://scontent.cdninstagram.com/v/t51.29350-15/434338275_945522396953098_8970590750708526003_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDQzNy5zZHIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=vyeXP97TM74AX_Emtcr&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzMTkyMjQwMjc3Nzk5OTU5OA%3D%3D.2-ccb7-5&oh=00_AfDQtwv5iSNSUcMOiOVLl2S-JeefbmVzvjYnNmb6buRYbw&oe=66053CF3&_nc_sid=10d13b)
-
-I am a web Developer.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
